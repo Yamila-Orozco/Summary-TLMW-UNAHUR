@@ -2,7 +2,7 @@
 ## Date: 10/30/2024
 
 <div align='center'>👩🏽‍💻 Re-learning HTML/CSS/Bootstrap/Java because I got a 4 on my test 😂 Si un 4 </div>
-<div align='center'>![image](https://media.giphy.com/media/RlNs1QrnmBnCba4LOv/giphy.gif)</div>
+![image](https://media.giphy.com/media/RlNs1QrnmBnCba4LOv/giphy.gif)
 
 ## Learning
 This repository summarizes the key concepts I have learned in HTML, CSS, Bootstrap, and Java. 
