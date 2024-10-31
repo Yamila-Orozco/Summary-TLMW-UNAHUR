@@ -1,14 +1,21 @@
-# TLMW UNAHUR +W3SCHOOLS--HTML Tutorial+ NINJA CODES NOTES 
-## Date 10/30/2024
-<div align='center'>👩🏽‍💻Re Learning HTML/CSS/BOOTSTRAP/ JAVA because I got a 4 in my test😂</div>
+# TLMW UNAHUR + W3SCHOOLS - HTML Tutorial + NINJA CODES NOTES
+## Date: 10/30/2024
 
-# Learning:
-<iframe src="https://giphy.com/embed/RlNs1QrnmBnCba4LOv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div align='center'>👩🏽‍💻 Re-learning HTML/CSS/Bootstrap/Java because I got a 4 on my test 😂</div>
 
-Welcome to the English Learning Repository! This repository serves as a comprehensive resource for anyone looking to improve their English language skills, with a particular focus on English for specific purposes, get a well-paid job in dollars😂💸.(And it will force me to code everyday 🤓)
-This repository summarizes the key things that I learned. 
-> Please see: https://www.w3schools.com/html/   for the sources of all the information contained herein. 
-> Please see: 
+## Learning
+![Learning GIF](https://giphy.com/embed/RlNs1QrnmBnCba4LOv)
+
+Welcome to the English Learning Repository! This repository serves as a comprehensive resource for anyone looking to improve their English language skills, particularly for specific purposes to land a well-paid job in dollars 😂💸. (And it will force me to code every day 🤓)
+
+This repository summarizes the key concepts I have learned in HTML, CSS, Bootstrap, and Java. 
+
+## Resources
+- Please see: [W3Schools HTML](https://www.w3schools.com/html/) for the sources of all the information contained herein.
+- Additional resources:
+  - [W3Schools CSS](https://www.w3schools.com/css/)
+  - [W3Schools Bootstrap](https://www.w3schools.com/bootstrap/)
+  - [W3Schools Java](https://www.w3schools.com/java/)
 
 ## Course Outline
 
