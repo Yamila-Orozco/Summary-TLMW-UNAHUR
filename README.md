@@ -4,7 +4,10 @@
 <div align='center'>👩🏽‍💻 Re-learning HTML/CSS/Bootstrap/Java because I got a 4 on my test 😂</div>
 
 ## Learning
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/RlNs1QrnmBnCba4LOv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hyperrpg-twitch-kollok-kollok1991-RlNs1QrnmBnCba4LOv"></a></p>
+<div align='center'>
+    ![Learning GIF](https://media.giphy.com/media/RlNs1QrnmBnCba4LOv/giphy.gif)
+    <p><a href="https://giphy.com/gifs/hyperrpg-twitch-kollok-kollok1991-RlNs1QrnmBnCba4LOv">via GIPHY</a></p>
+</div>
 
 Welcome to the English Learning Repository! This repository serves as a comprehensive resource for anyone looking to improve their English language skills, particularly for specific purposes to land a well-paid job in dollars 😂💸. (And it will force me to code every day 🤓)
 
