@@ -4,7 +4,9 @@
 <div align='center'>👩🏽‍💻 Re-learning HTML/CSS/Bootstrap/Java because I got a 4 on my test 😂</div>
 
 ## Learning
-[Learning GIF](https://media.giphy.com/media/RlNs1QrnmBnCba4LOv/giphy.gif)
+<div align='center'>
+    <iframe src="https://giphy.com/embed/RlNs1QrnmBnCba4LOv" width="480" height="270" frameBorder="0" allowFullScreen></iframe>
+</div>
 
 Welcome to the English Learning Repository! This repository serves as a comprehensive resource for anyone looking to improve their English language skills, particularly for specific purposes to land a well-paid job in dollars 😂💸. (And it will force me to code every day 🤓)
 
