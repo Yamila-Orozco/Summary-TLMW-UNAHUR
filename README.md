@@ -117,7 +117,7 @@ tell the browser what each tagged element is.
 
 Here, <!DOCTYPE html> defines that document is html5, <html> is root element of an html page, 
 <head> contains meta information about the html page, <title> specifies title  for the page( which is shown in the browser's title bar or page's tab. <body> is a container for all visible contents of a site. 
-
+UNAHUR TIP: Main Web: <title>Unahur</title> //Secondary page: <title> Unahur– Virtual Campus</title>
 ```
 <!DOCTYPE html>
 <html>
@@ -201,13 +201,21 @@ HTML is not case sensitive but xhtml is more strict. So always use lower case le
 ## HTML ATTRIBUTES
  **Attribute comes as name="value"
 
-* HTML links: ```<a href="https://www.w3schools.com">Visit W3Schools</a>``` 
+* HTML tag and attribute links: ```<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes">Visit mozilla.org </a>``` 
+
+* Global attribute link: ```<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes">Visit W3Schools</a>``` 
 
 The SRC attribute: 
 ```
 <h2>The src Attribute</h2>
 <p>HTML images are defined with the img tag, and the filename of the image source is specified in the src attribute:</p>
 <img src="img_girl.jpg" width="500" height="600">
+<img src="https://drive.google.com/uc?export=view&id=1yhbYzViMT8G6_TULblC0RD9WsGyEDFE2"></img>
+<p>we can add global attributes like title and alt </p>
+<img id="logoUnahur" class="logos"
+src="https://drive.google.com/uc?export=view&id=1yhbYzViMT8G6_TULblC0RD9WsGyEDF
+E2" alt="Logo de la universidad de Hurlingham" title="Logo UNAHUR"
+height="100"></img>
 ```
 **specifying the url in the ```src``` attribute
 
@@ -228,17 +236,17 @@ src="/images/img_girl.jpg"   **in this case, the slash is relative to the site u
  <p style="color:red;">This is a red paragraph.</p> 
 ```
 
-**Lang attribute: Should always be included inside an <html> tag the declare website language to assist search engines locate you
+**Lang attribute: Should always be included inside an <html> tag the declare website language to assist search engines locate you eg: Spanish "es"
 
 ```
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <body>
 ...
 </body>
 </html>
 ```
-*You can also include country attribute.
+*You can also include country attribute. English-United States
 
 ```
 <!DOCTYPE html>
