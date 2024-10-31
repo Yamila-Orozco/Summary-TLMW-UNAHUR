@@ -368,7 +368,7 @@ Styles summary
 <b> - Bold text
 <strong> - Important text (It has a semantic meaning)
 <i> - Italic text...often used to indicate a technical term, a phrase from another language, a thought, a ship name, etc.
-<em> - Emphasized text. A screen reader will emphasize the text using verbal stress
+<em> - Emphasized text. A screen reader will emphasize the text using verbal stress (It has a semantic meaning)
 <mark> - Marked text. Element that should be highlighted. You can use style to change the color.
 <small> - Smaller text
 <del> - Deleted text. Browsers usually strike a line through
@@ -637,7 +637,7 @@ p    {color: red;}
 
 ## CSS EXTERNAL
 External CSS: Define style for many HTML pages. To use the external style, you add a link to it in the head section of the html. File must not contain any HTML Code and can be written in any text editor. Save with a .css extension. 
-
+THIS IS THE ONE UNAHUR USES
 ```
 <!DOCTYPE html>
 <html>
